@@ -1,0 +1,15 @@
+target/
+bin/
+tmp/
+.idea/
+out/
+
+*.iml
+.DS_Store
+*.class
+*.jar
+*.war
+.target
+
+
+
