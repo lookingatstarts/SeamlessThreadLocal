@@ -1,4 +1,4 @@
-package com.easy;
+package com.easy.stl;
 
 public interface Copier {
 

@@ -1,4 +1,4 @@
-package com.easy;
+package com.easy.stl;
 
 /**
  * 线程A 提交任务 被线程B 执行

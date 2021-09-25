@@ -1,4 +1,4 @@
-package com.easy;
+package com.easy.stl;
 
 /**
  * 标记接口

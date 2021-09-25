@@ -1,10 +1,10 @@
-package com.easy;
+package com.easy.stl;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.WeakHashMap;
 
-import static com.easy.Holder.PLACE_OBJ;
+import static com.easy.stl.Holder.PLACE_OBJ;
 
 public class SeamlessUtil {
 

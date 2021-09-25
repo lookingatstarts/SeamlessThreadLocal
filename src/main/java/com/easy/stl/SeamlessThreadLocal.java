@@ -1,4 +1,4 @@
-package com.easy;
+package com.easy.stl;
 
 @SuppressWarnings("unchecked")
 public class SeamlessThreadLocal<T> extends InheritableThreadLocal<T> implements Enhanced {
